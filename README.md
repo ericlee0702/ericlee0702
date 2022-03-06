@@ -10,7 +10,10 @@
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
+<p align="center">
+<a href="https://app.daily.dev/devalpha18"><img src="https://api.daily.dev/devcards/8f4b7836eb7d4678ba5e55450bedb33a.png?r=z9x" width="400" alt="alpha's Dev Card"/></a>
+</br>
+<p align="center">
 ### **_Skills_**
 <table>
   <tr>
