@@ -42,31 +42,11 @@ GHArt GameFi | https://ghart.io/ | ETH |
 Midas Dragon Club | https://midasdragoncollective.com/ | MOONRIVER | 
 Heros Of the Metaverse | https://metaheroes.club/ | SOLANA | 
 Froggos Club | https://froggosnft.com/ | SOLANA | 
-Meta Crocs | https://metacrocsnft.com/ | ETH | 
 Royal Cats Club | https://royalcatsclub.com/ | ETH | 
 Super Car Club | https://supercarsnft.io/ | ETH | 
 Bad Seed Bank | https://badseed-bank.com/ | ETH | 
 Dumb Monkes | https://dumbmonkes.com/ | ETH | 
 Super Squach | https://supersquatch.io/ | ETH | 
-Grandpa Apes Club | https://grandpaapecountryclub.com/ | ETH | 
-King Solomon | https://kingsolomon.studio/ | ETH | 
-DinoDawg Kingdom | https://dinodawgs.io/ | SOLANA | 
-Alien Dudes | https://thealiendudes.com/ | SOLANA |
-Commandos Chaos | https://commandochaos.com/ | ETH |
-Third Eye Ape Club | https://thirdeyeapes.io/ | ETH |
-Wall Street Wolves | http://34.229.184.78/ | ETH |
-Privileged Tiger Club | https://privilegedtigerclub.io/ | ETH |
-Business Ape Club | https://businessapeclub.com/ | SOLANA | 
-VictorLab | https://victorlab.io/ | ETH | 
-Degen Ape Club | https://degenapeclub.world/#nfts | ETH | 
-Pixel Shibs | https://pixelshibs.com/ | ETH | 
-Notorious Gorillas | https://notoriousgorillas.com/ | ETH | 
-Crazy Santa | https://crazysantanft.com/ | POLYGON | 
-CatBoy | https://catboynft.com/ | BSC | 
-Baby Mutant Punks | https://babymutantpunks.com/ | SOLANA | 
-Gnome Shroom Club | https://gnomeshroomclub.com/ | POLYGON | 
-Solana Wizard | https://solanawizards.online/ | SOLANA | 
-Glewme City | http://glewme.com/ | ETH | 
 Fantasy World | https://app.fantasyworld.game/ | ETH | 
 Baby Floki Doge | https://babyflokidogenfts.com/ | ETH | 
 RPS League | https://app.rpsleague.io/ | BSC | 
@@ -85,14 +65,6 @@ Mutant Animals | https://mutantanimals.com/ | SOLANA |
 Crypto Comma Club | https://thecryptocommaclub.com/ | ETH | 
 Couch Potatoes | https://couchpotatoestudios.art/ | ETH |
 Genie Quest | https://www.genie.quest/ | ETH |
-Chillin Chameleon | https://preciouspixels.art/ | ETH |
-C-Loot Solana | https://solhexloot.com/ | SOLANA |
-Bored Ape Solana | https://solboredapes.io/ | SOLANA |
-Crypto Keeperz Club | https://www.cryptokeeperz.club/ | ETH |
-Calabasas Kid Club | https://calabasaskidclub.io/ | ETH |
-Cool Aliens | https://coolaliens.fun/ | ETH |
-Elon's Tesla | https://elonstesla.io/ | ETH |
-NF Furries | https://nffurries.io | ETH |
 Crypto Cowboys | http://cryptocowboys.org/ | ETH |
 Crazy Cousinz Club | http://crazycousinz.club/ | ETH |
 
@@ -107,12 +79,6 @@ DogeFather NFT Marketplace | https://dogefathernft.com | https://github.com/Doge
 Super DNA NFT Marketplace | https://supernft.com | https://github.com/SuperNFT-Marketplace |
 CryptoMozart NFT Marketplace | https://cryptomozart.io/ | https://github.com/CryptoMozart-NFT |
 PAWZ NFT Marketplace | https://pawzcrypto.shop/ | https://github.com/PAWZ-NFT |
-Memories NFT Marketplace | http://memories.voyr.me/ | https://github.com/Memories-NFT |
-ASSN NFT Marketplace | http://188.166.85.91/ | https://github.com/ASSN-NFT |
-CrowdPoint NFT Marketplace | http://nft.theellipsis.exchange/home | https://github.com/Blokista-NFT-Marketplace |
-NFT Show Auction Marketplace | http://165.227.230.18/ | https://github.com/NFTShow |
-NFFurries NFT Marketplace | https://nffurries.herokuapp.com/ | https://github.com/NFFurries |
-FLAT NFT Marketplace | https://flat-nft.netlify.app/ | https://github.com/flat-swap |
 
 ## Decentralized Exchange Platform
 Project Name | Site Url | Github Organize
@@ -144,68 +110,7 @@ BitBucks Swap | https://swap.bitbucks.finance | https://github.com/bbswap |
 Bioma Defi | https://defi.bioma.eco/ | https://github.com/bioma-defi |
 BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
 Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
-Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
-Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
-BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
-ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
-WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
-WWE Swap | https://wwe.wwf.finance/ | https://github.com/wwe-finance |
-Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
-Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
-Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
-Levelup Defi | https://levelupdefi.com/ | https://github.com/levelupdefi/ |
-Jolly Roger Swap | https://app.jollyroger.finance/ | https://github.com/jollyrogerswap |
-Predator Swap | https://predator.finance | https://github.com/predatorswap |
-Trident Swap | https://kingdomofposeidon.finance | https://github.com/tridentswap |
-Espeon Swap | https://espeonfinance.tech | https://github.com/espeonswap |
-Fire Dragon Swap | https://firedragon.finance | https://github.com/firedragonswap |
-Ice Dragon Swap | https://icedragon.finance | https://github.com/icedragonswap |
-Dark Dragon Swap | https://darkdragon.finance | https://github.com/darkdragonswap |
-Lightning Dragon Swap | https://lightningdragon.finance/ | https://github.com/lightningdragonswap/ |
-Light Dragon Swap | https://lightdragon.finance/ | https://github.com/darkdragonswap/ |
-Gold Lion Swap | https://goldlion.finance/ | https://github.com/goldlionfinance/ |
-Artic Bear Swap | https://articbear.finance/ | https://github.com/articbearfinance/ |
-Handy Man Swap | https://handyman.finance/ | https://github.com/handymanfinance/ |
-Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
-Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
-HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
 
-## Defi Platform on Fantom
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-BakerGuild Finance | https://bakerguild.com/ | https://github.com/baker-finance |
-PrimeStake Finance | https://app.primestake.finance/ | https://github.com/primestake-finance |
-Age of Defi | https://agefantom.com/ | https://github.com/aod-finance |
-
-## Defi Platform on SmartBCH
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-SmartCow Finance | https://smartcow.finance/ | https://github.com/smartcow-finance |
-
-## Defi Platform on Arbitrum
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-Mikumilk Finance | https://mikumilk.finance/ | https://github.com/mikumilk-finance |
-
-## Defi Platform on Polygon
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-Polylava Finance | https://polylava.finance/ | https://github.com/polylava-finance |
-
-## ICO Featured Projects
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-Porn ICO | https://pornswapprivatesale.com | https://github.com/porn-swap/porn-presale |
-PDTR ICO | https://predatorpresale.com | https://github.com/predatorswap/predator-presale | 
-TRDNT ICO | https://kingdomofposeidon.com | https://github.com/tridentswap/trident-presale |
-FDRAG ICO | https://firedragonpresale.com | https://github.com/firedragonswap/firedragon-presale |
-ICEDRAG ICO | https://icedragon.live | https://github.com/icedragonswap/icedragon-presale |
-DDRAG ICO | https://darkdragonpresale.com | https://github.com/darkdragonswap/darkdragon-presale |
-LDRAG ICO | https://lightningdragon.co/ | https://github.com/lightningdragonswap/lightningdragon-presale |
-LTDRAG ICO | https://lightdragon.co/ | https://github.com/lightdragonswap/lightdragon-presale |
-GOLDLION ICO | https://goldlionco.com/ | https://github.com/goldlionfinance/goldlion-presale |
-ARTIC ICO | https://articbear.co/ | https://github.com/articbear-finance/articbear-presale |
-HANDY ICO | https://handymans.finance/ | https://github.com/handymanfinance/handyman-presale |
 
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
