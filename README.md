@@ -65,8 +65,6 @@ Mutant Animals | https://mutantanimals.com/ | SOLANA |
 Crypto Comma Club | https://thecryptocommaclub.com/ | ETH | 
 Couch Potatoes | https://couchpotatoestudios.art/ | ETH |
 Genie Quest | https://www.genie.quest/ | ETH |
-Crypto Cowboys | http://cryptocowboys.org/ | ETH |
-Crazy Cousinz Club | http://crazycousinz.club/ | ETH |
 
 ## NFT Marketplace Featured Projects
 Project Name | Site Url | Github Organize
