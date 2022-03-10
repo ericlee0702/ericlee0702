@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://app.daily.dev/superpromiser"><img src="https://api.daily.dev/devcards/8f4b7836eb7d4678ba5e55450bedb33a.png?r=cn7" width="400" alt="superpromiser's Dev Card"/></a>
 </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 <p align="center">
 ### **_Skills_**
 <table align='center'>
