@@ -39,8 +39,6 @@ Project Name | Site Url | Blockchain
 :-------------------------:|:-------------------------:|:-------------------------:
 Superlative Apes Club | https://superlativeapes.com/ | ETH | 
 GHArt GameFi | https://ghart.io/ | ETH |
-Midas Dragon Club | https://midasdragoncollective.com/ | MOONRIVER | 
-Heros Of the Metaverse | https://metaheroes.club/ | SOLANA | 
 Froggos Club | https://froggosnft.com/ | SOLANA | 
 Royal Cats Club | https://royalcatsclub.com/ | ETH | 
 Super Car Club | https://supercarsnft.io/ | ETH | 
