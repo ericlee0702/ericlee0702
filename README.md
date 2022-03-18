@@ -40,7 +40,6 @@ Project Name | Site Url | Blockchain
 Superlative Apes Club | https://superlativeapes.com/ | ETH | 
 GHArt GameFi | https://ghart.io/ | ETH |
 Froggos Club | https://froggosnft.com/ | SOLANA | 
-Royal Cats Club | https://royalcatsclub.com/ | ETH | 
 Super Car Club | https://supercarsnft.io/ | ETH | 
 Bad Seed Bank | https://badseed-bank.com/ | ETH | 
 Dumb Monkes | https://dumbmonkes.com/ | ETH | 
