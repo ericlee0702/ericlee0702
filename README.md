@@ -66,11 +66,8 @@ Genie Quest | https://www.genie.quest/ | ETH |
 ## Decentralized Exchange Platform
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
-Toshinori Inu Swap | https://hero-swap.com/#/swap | https://github.com/msa-swap |
 BabyCake Swap | https://swap.babycake.app | https://github.com/babycake-swap |
 ThogeCoin Swap | https://thogechain.com | https://github.com/thoge-swap |
-SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
-Paws Swap | https://pawswap.app | https://github.com/paws-swap |
 Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
 
 ## Game Platform
