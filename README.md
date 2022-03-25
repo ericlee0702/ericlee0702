@@ -63,18 +63,6 @@ Crypto Comma Club | https://thecryptocommaclub.com/ | ETH |
 Couch Potatoes | https://couchpotatoestudios.art/ | ETH |
 Genie Quest | https://www.genie.quest/ | ETH |
 
-## NFT Marketplace Featured Projects
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-Nanai NFT Marketplace | https://www.nanai.io | https://github.com/Nanai-NFT-Marketplace |
-Lemon NFT Marketplace | https://lemonnfts.com | https://github.com/LemonNFTs | 
-ArtDeco NFT Marketplace | http://app.artdeco.community | https://github.com/ArtDecoNFTs |
-Niftiversa NFT Marketplace | https://niftiverse.com/home | https://github.com/Niftiverse-NFTs |
-DogeFather NFT Marketplace | https://dogefathernft.com | https://github.com/DogefatherNFTs |
-Super DNA NFT Marketplace | https://supernft.com | https://github.com/SuperNFT-Marketplace |
-CryptoMozart NFT Marketplace | https://cryptomozart.io/ | https://github.com/CryptoMozart-NFT |
-PAWZ NFT Marketplace | https://pawzcrypto.shop/ | https://github.com/PAWZ-NFT |
-
 ## Decentralized Exchange Platform
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
