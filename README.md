@@ -66,7 +66,6 @@ Genie Quest | https://www.genie.quest/ | ETH |
 ## Decentralized Exchange Platform
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
-BabyCake Swap | https://swap.babycake.app | https://github.com/babycake-swap |
 ThogeCoin Swap | https://thogechain.com | https://github.com/thoge-swap |
 Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
 
