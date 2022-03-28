@@ -78,7 +78,6 @@ Birb Lottery | https://birbswap.finance/lottery | https://github.com/birb-swap |
 ## Defi Platform on BSC
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
-Candy Swap | https://candyswap.one | https://github.com/candies-swap |
 Guitar Swap | https://guitarswap.exchange | https://github.com/guitar-swap |
 Birb Swap | https://birbswap.finance/ | https://github.com/birb-swap |
 Sapphire Finance | https://sapphireswap.finance/ | https://github.com/sapphire-finance |
