@@ -1,4 +1,3 @@
-### **_Contact Details_**
 <p align="center">
 <a href="https://app.daily.dev/superpromiser"><img src="https://api.daily.dev/devcards/8f4b7836eb7d4678ba5e55450bedb33a.png?r=84w" width="400" alt="superpromiser's Dev Card"/></a>
 </br>
