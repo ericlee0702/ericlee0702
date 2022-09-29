@@ -1,15 +1,4 @@
 ### **_Contact Details_**
-<p align='center'>
-<a href="https://t.me/talentdev72">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/xqaLAtS002ou">
-  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:superpromiser@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
 <p align="center">
 <a href="https://app.daily.dev/superpromiser"><img src="https://api.daily.dev/devcards/8f4b7836eb7d4678ba5e55450bedb33a.png?r=84w" width="400" alt="superpromiser's Dev Card"/></a>
 </br>
